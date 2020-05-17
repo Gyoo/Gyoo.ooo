@@ -1,0 +1,12 @@
+.navbar {
+  margin-bottom: 1rem;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+
+.wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
